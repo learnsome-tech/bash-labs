@@ -1,0 +1,2 @@
+Your name: Ada
+Hello, Ada!

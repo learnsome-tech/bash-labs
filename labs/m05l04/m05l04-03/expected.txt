@@ -1,0 +1,2 @@
+Found script: project/src/build.sh
+Found script: project/src/deploy.sh

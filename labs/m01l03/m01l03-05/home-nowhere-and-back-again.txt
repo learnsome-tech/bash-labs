@@ -1,0 +1,4 @@
+cd ~/project
+cd
+cd -
+ls ~/data

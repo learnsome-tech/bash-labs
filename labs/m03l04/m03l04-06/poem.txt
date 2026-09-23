@@ -1,0 +1,8 @@
+The quiet shell waits for a word
+it does not guess what you meant
+it splits what you left unquoted
+and joins what you asked it to join
+a star becomes every file here
+a dollar becomes what it holds
+say it plainly and say it once
+and the shell will do it again

@@ -1,0 +1,6 @@
+== log files ==
+3
+
+== warnings and errors ==
+beta warn disk almost full
+gamma error out of memory

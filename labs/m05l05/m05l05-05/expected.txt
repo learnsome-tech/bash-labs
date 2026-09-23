@@ -1,0 +1,6 @@
+APP_NAME is ledger
+APP_ENV is staging
+APP_PORT is 8080
+LOG_LEVEL is info
+RETRIES is 3
+FEATURE_FLAGS is beta,fast-path

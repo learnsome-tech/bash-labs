@@ -1,0 +1,9 @@
+10.0.2.7 GET /admin 403 96
+10.0.0.9 GET /missing.png 404 142
+10.0.0.4 GET /report.pdf 500 0
+10.0.2.7 GET /missing.png 404 142
+--- the same pattern in basic syntax needs backslashes
+10.0.2.7 GET /admin 403 96
+10.0.0.9 GET /missing.png 404 142
+10.0.0.4 GET /report.pdf 500 0
+10.0.2.7 GET /missing.png 404 142

@@ -1,0 +1,4 @@
+first pipeline, without pipefail
+the shell thinks that pipeline passed
+second pipeline, with pipefail
+exit status 1

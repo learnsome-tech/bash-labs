@@ -1,0 +1,4 @@
+check.sh: line 3: [: =: unary operator expected
+x is not y
+check.sh: line 9: [: too many arguments
+x is not y

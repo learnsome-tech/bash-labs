@@ -1,0 +1,4 @@
+starting the report
+2
+runtime.sh: line 5: wordcount: command not found
+finished the report

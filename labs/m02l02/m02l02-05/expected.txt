@@ -1,0 +1,4 @@
+a single quoted string cannot contain a single quote
+stop'and go
+stop'and go
+stop'and go

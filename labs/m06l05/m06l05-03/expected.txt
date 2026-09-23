@@ -1,0 +1,3 @@
+starting the search
+cleanup ran, and the status was 1
+script status 1

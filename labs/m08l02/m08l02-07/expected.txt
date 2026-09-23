@@ -1,0 +1,2 @@
+cat: vault/note.txt: Permission denied
+top secret

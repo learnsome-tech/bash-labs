@@ -1,0 +1,5 @@
+hello Ada, you owe 12 dollars
+hello $user, you owe $cost dollars
+the bill is $12
+a literal backslash: \
+single quotes keep * and ? and $ exactly as typed

@@ -1,0 +1,5 @@
+report.sh:4:7: note: Use $(...) notation instead of legacy backticks `...`. [SC2006]
+report.sh:4:16: note: Double quote to prevent globbing and word splitting. [SC2086]
+report.sh:5:15: note: Double quote to prevent globbing and word splitting. [SC2086]
+report.sh:6:1: warning: Use 'cd ... || exit' or 'cd ... || return' in case cd fails. [SC2164]
+report.sh:7:6: note: Check exit code directly with e.g. 'if ! mycmd;', not indirectly with $?. [SC2181]

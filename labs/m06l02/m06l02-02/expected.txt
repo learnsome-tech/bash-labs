@@ -1,0 +1,5 @@
+script name: args.sh
+first: Ada
+second: Grace
+how many: 2
+all of them: Ada Grace

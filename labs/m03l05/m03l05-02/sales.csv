@@ -1,0 +1,7 @@
+region,product,units,price
+north,widget,120,4.50
+south,widget,80,4.50
+north,gasket,45,12.00
+east,widget,210,4.25
+south,gasket,12,12.00
+west,flange,64,7.75

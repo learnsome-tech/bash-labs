@@ -1,0 +1,10 @@
+302
+403
+500
+--- codes above were not on the expected list
+1,2c1,2
+< The quiet shell waits for a word
+< it does not guess what you meant
+---
+> say it plainly and say it once
+> and the shell will do it again

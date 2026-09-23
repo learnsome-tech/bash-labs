@@ -1,0 +1,2 @@
+bash greet.sh Ada Grace
+#    $0       $1  $2      $# is 2

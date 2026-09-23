@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Bash Scripting & Command Line Automation — lesson m07l05 — eval, And What To Use Instead
+# https://learnsome.tech/courses/bash-course/watch?lesson=m07l05
+# © LearnSome.tech
+
+opts=(-n)
+opts+=(-i)
+pattern="SHELL"
+grep "${opts[@]}" "$pattern" poem.txt

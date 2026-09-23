@@ -1,0 +1,9 @@
+In count.sh line 4:
+printf 'arg: %s\n' $file
+                   ^---^ SC2086 (info): Double quote to prevent globbing and word splitting.
+
+Did you mean:
+printf 'arg: %s\n' "$file"
+
+For more information:
+  https://www.shellcheck.net/wiki/SC2086 -- Double quote to prevent globbing ...

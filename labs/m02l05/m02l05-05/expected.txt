@@ -1,0 +1,8 @@
+forwarded with the at sign in quotes:
+got 3 arguments
+  [one]
+  [two words]
+  [three]
+forwarded with the star in quotes:
+got 1 arguments
+  [one two words three]

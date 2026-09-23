@@ -1,0 +1,4 @@
+/tmp/bash-course/work/notes/todo.md
+notes/todo.md
+./notes/todo.md
+../work/notes/todo.md

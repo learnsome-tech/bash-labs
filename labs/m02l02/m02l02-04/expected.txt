@@ -1,0 +1,6 @@
+two spaces collapse
+two  spaces survive
+a star in quotes: *
+a star escaped: *
+joined across
+two source lines

@@ -1,0 +1,3 @@
+hello ada
+typo.sh: line 6: nmae: unbound variable
+exit status 1

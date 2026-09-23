@@ -1,0 +1,1 @@
+0 7 * * * /home/ada/bin/report.sh >> /home/ada/log/report.log 2>&1

@@ -1,0 +1,9 @@
+In report.sh line 6:
+cd /nowhere
+^---------^ SC2164 (warning): Use 'cd ... || exit' or 'cd ... || return' in case cd fails.
+
+Did you mean:
+cd /nowhere || exit
+
+For more information:
+  https://www.shellcheck.net/wiki/SC2164 -- Use 'cd ... || exit' or 'cd ... |...

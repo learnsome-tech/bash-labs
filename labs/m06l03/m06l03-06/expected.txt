@@ -1,0 +1,4 @@
+backing up notes with verbose 1
+unknown option: -x
+usage: backup.sh [-v] -d DIR
+status 2

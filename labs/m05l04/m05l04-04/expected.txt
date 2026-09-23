@@ -1,0 +1,5 @@
+word: one
+word: two
+word: three
+note: notes/ideas.md
+note: notes/todo.md

@@ -1,0 +1,2 @@
+after the pipeline: 0
+after redirection: 3

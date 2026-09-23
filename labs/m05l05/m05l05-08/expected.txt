@@ -1,0 +1,5 @@
+one\ttwo
+one	two
+host          port
+web01          443
+cache01       6379

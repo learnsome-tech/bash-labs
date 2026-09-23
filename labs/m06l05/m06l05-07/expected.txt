@@ -1,0 +1,3 @@
+working
+cleanup ran once
+still going after the signal

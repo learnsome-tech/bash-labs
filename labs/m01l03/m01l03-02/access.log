@@ -1,0 +1,10 @@
+10.0.0.4 GET /index.html 200 1043
+10.0.0.9 GET /style.css 200 218
+10.0.0.4 POST /login 302 0
+10.0.2.7 GET /admin 403 96
+10.0.0.9 GET /missing.png 404 142
+10.0.2.7 GET /index.html 200 1043
+10.0.3.1 POST /login 200 57
+10.0.0.4 GET /report.pdf 500 0
+10.0.3.1 GET /index.html 200 1043
+10.0.2.7 GET /missing.png 404 142

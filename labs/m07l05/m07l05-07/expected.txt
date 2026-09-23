@@ -1,0 +1,2 @@
+1:The quiet shell waits for a word
+8:and the shell will do it again

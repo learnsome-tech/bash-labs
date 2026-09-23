@@ -1,0 +1,5 @@
+start with 3 arguments
+handling red
+handling green
+handling blue
+left with 0 arguments

@@ -1,0 +1,4 @@
+0 2 * * *   /home/ada/bin/backup.sh >> /home/ada/log/backup.log 2>&1
+*/5 * * * * /home/ada/bin/check.sh  >> /home/ada/log/check.log 2>&1
+0 12 * * 5  /home/ada/bin/report.sh >> /home/ada/log/report.log 2>&1
+30 3 1 * *  /home/ada/bin/rotate.sh >> /home/ada/log/rotate.log 2>&1

@@ -1,0 +1,6 @@
+plain read:
+[C:Usersada]
+[padded]
+read with the r option and an empty separator:
+[C:\Users\ada]
+[   padded   ]

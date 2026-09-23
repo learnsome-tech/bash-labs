@@ -1,0 +1,7 @@
+notes/archive/old.md
+notes/ideas.md
+notes/todo.md
+--
+project/src/build.sh
+project/src/deploy.sh
+project/tests/smoke.sh

@@ -1,0 +1,2 @@
+hello, shell
+same reader, no prompt, no waiting for you

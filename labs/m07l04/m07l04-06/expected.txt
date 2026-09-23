@@ -1,0 +1,12 @@
+In bashisms.sh line 3:
+names=(ada grace ken)
+      ^-------------^ SC3030 (warning): In POSIX sh, arrays are undefined.
+
+
+In bashisms.sh line 5:
+if [[ $count -gt 2 ]]; then
+   ^----------------^ SC3010 (warning): In POSIX sh, [[ ]] is undefined.
+
+For more information:
+  https://www.shellcheck.net/wiki/SC3010 -- In POSIX sh, [[ ]] is undefined.
+  https://www.shellcheck.net/wiki/SC3030 -- In POSIX sh, arrays are undefined.

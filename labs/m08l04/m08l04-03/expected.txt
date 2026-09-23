@@ -1,0 +1,3 @@
+restored/notes/archive/old.md
+restored/notes/ideas.md
+restored/notes/todo.md

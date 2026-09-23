@@ -1,0 +1,4 @@
+the or operator swallowed the failure
+a command in a condition is never fatal
+handled it on purpose
+reached the end

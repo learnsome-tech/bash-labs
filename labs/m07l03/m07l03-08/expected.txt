@@ -1,0 +1,1 @@
+lines in poem.txt: 8

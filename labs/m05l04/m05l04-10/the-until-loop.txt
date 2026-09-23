@@ -1,0 +1,3 @@
+until ping -c 1 localhost; do
+  sleep 1
+done

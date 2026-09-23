@@ -1,0 +1,2 @@
+item: tricky/two
+item: words.txt

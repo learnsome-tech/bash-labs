@@ -1,0 +1,6 @@
+at sign:
+  [one]
+  [two words]
+  [three]
+star:
+  [one two words three]

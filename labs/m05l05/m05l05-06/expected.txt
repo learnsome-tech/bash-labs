@@ -1,0 +1,3 @@
+Dear Ada,
+Your report is ready.
+Nothing expands here, so $name stays as it is.

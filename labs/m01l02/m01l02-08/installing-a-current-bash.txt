@@ -1,0 +1,5 @@
+brew install bash
+sudo apt update && sudo apt install bash
+sudo dnf install bash
+sudo pacman -S bash
+apk add bash

@@ -1,0 +1,3 @@
+the owner can execute it now
+the execute bit is gone again
+read only for everybody

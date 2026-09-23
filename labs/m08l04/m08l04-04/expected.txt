@@ -1,0 +1,3 @@
+copy.txt.gz
+The quiet shell waits for a word
+it does not guess what you meant

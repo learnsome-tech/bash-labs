@@ -1,0 +1,2 @@
+alias-vs-function.sh: line 4: hi: command not found
+hello, ada

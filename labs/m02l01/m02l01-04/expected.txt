@@ -1,0 +1,4 @@
+words: 3 | [hello] [big] [world]
+words: 1 | [hello   big world]
+words: 2 | [ideas.md] [todo.md]
+words: 1 | [*.md]

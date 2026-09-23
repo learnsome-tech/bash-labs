@@ -1,0 +1,4 @@
+files in the workspace:
+list.txt
+poem.txt
+the workspace is gone

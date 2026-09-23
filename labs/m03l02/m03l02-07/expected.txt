@@ -1,0 +1,4 @@
+copy.txt now holds 0 lines
+names.txt still holds 10 lines
+Ada Lovelace
+Alan Turing

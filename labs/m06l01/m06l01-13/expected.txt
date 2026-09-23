@@ -1,0 +1,3 @@
+name is ADA
+four is even
+seven is not

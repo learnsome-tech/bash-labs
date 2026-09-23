@@ -1,0 +1,2 @@
+cleanup() { rm -rf "$work"; }
+trap cleanup EXIT INT TERM

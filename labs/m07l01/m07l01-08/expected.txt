@@ -1,0 +1,7 @@
+quiet part
++ greet world
++ local name=world
++ echo 'hello world'
+hello world
++ set +x
+quiet again

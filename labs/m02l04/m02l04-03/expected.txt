@@ -1,0 +1,7 @@
+1 [APP_NAME=ledger]
+2 [APP_ENV=staging]
+3 [APP_PORT=8080]
+4 [LOG_LEVEL=info]
+5 [RETRIES=3]
+6 [FEATURE_FLAGS=beta,fast-path]
+read 6 lines

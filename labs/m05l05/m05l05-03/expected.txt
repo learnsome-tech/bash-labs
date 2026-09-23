@@ -1,0 +1,6 @@
+[Shell]
+[indented line]
+[UPPER case Words]
+[]
+[trailing section]
+[shell]

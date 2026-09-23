@@ -1,0 +1,3 @@
+0077
+./open.txt
+./closed.txt

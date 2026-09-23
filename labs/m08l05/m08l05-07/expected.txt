@@ -1,0 +1,11 @@
+== host ==
+Linux 6.8.0-41-generic
+
+== disk ==
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        50G   21G   27G  44% /
+
+== busiest processes ==
+  911  3.4 bun
+ 1204  1.1 node
+    1  0.0 systemd

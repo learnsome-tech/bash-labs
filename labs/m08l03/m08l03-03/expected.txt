@@ -1,0 +1,10 @@
+.
+./data
+./lib
+./notes
+./project
+--
+./empty.txt
+--
+notes/ideas.md
+notes/todo.md

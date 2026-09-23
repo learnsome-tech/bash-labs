@@ -1,0 +1,1 @@
+{a,b}  ~  $var  $(cmd)  $((x+1))  ->  split  ->  glob  ->  unquote

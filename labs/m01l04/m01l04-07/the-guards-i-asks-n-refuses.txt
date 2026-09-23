@@ -1,0 +1,3 @@
+cp -i source.txt dest.txt
+mv -n source.txt dest.txt
+alias cp='cp -i'

@@ -1,0 +1,5 @@
+my
+my notes.txt
+notes.txt
+after the unquoted remove:
+my notes.txt

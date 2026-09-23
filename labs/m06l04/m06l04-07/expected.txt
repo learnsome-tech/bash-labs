@@ -1,0 +1,2 @@
+inside the function, count is 0
+the script survived a failed command substitution

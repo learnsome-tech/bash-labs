@@ -1,0 +1,4 @@
+notes/archive/old.md:3:Kept only to be found by find.
+notes/todo.md:3:- quote every expansion
+--- and only the file names
+notes/todo.md

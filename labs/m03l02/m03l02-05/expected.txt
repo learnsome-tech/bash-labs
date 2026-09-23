@@ -1,0 +1,8 @@
+out.txt holds:
+result: forty two
+err.txt holds:
+warning: cache was cold
+both.txt holds:
+result: forty two
+warning: cache was cold
+and /dev/null kept nothing

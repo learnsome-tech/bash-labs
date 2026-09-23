@@ -1,0 +1,3 @@
+cp report.txt backup.txt
+cp report.txt notes.txt archive/
+cp -R project/ project-backup/

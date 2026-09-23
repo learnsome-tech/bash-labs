@@ -1,0 +1,3 @@
+data/alpha.log:1
+data/beta.log:1
+data/gamma.log:1

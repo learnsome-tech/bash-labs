@@ -1,0 +1,2 @@
+-rwxr-xr--
+drwxr-xr-x
