@@ -1,0 +1,17 @@
+{
+  "lab": "m02l01-03",
+  "lesson": "m02l01",
+  "title": "Watching the early expansions",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-watching-the-early-expansions.sh",
+  "files": [
+    "session-watching-the-early-expansions.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

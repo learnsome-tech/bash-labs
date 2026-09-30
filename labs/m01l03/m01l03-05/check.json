@@ -1,0 +1,17 @@
+{
+  "lab": "m01l03-05",
+  "lesson": "m01l03",
+  "title": "Home, nowhere, and back again",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "home-nowhere-and-back-again.txt",
+  "files": [
+    "home-nowhere-and-back-again.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

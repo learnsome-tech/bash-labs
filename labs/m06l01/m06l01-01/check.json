@@ -1,0 +1,17 @@
+{
+  "lab": "m06l01-01",
+  "lesson": "m06l01",
+  "title": "Shell functions",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "shell-functions.sh",
+  "files": [
+    "shell-functions.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

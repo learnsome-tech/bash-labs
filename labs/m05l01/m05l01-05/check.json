@@ -1,0 +1,17 @@
+{
+  "lab": "m05l01-05",
+  "lesson": "m05l01",
+  "title": "Permission denied, then change mode",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-permission-denied-then-change-mode.sh",
+  "files": [
+    "session-permission-denied-then-change-mode.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

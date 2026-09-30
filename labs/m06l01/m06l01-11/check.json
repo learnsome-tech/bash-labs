@@ -1,0 +1,17 @@
+{
+  "lab": "m06l01-11",
+  "lesson": "m06l01",
+  "title": "The declare command",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-the-declare-command.sh",
+  "files": [
+    "session-the-declare-command.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

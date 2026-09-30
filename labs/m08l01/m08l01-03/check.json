@@ -1,0 +1,17 @@
+{
+  "lab": "m08l01-03",
+  "lesson": "m08l01",
+  "title": "Suspending, resuming, and coming back",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-suspending-resuming-and-coming-back.sh",
+  "files": [
+    "session-suspending-resuming-and-coming-back.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

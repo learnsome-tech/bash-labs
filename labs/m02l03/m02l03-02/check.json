@@ -1,0 +1,18 @@
+{
+  "lab": "m02l03-02",
+  "lesson": "m02l03",
+  "title": "A file name with a space in it",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-a-file-name-with-a-space-in-it.sh",
+  "files": [
+    "session-a-file-name-with-a-space-in-it.sh",
+    "two words.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

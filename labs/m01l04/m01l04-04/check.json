@@ -1,0 +1,18 @@
+{
+  "lab": "m01l04-04",
+  "lesson": "m01l04",
+  "title": "Copying a file and a whole tree",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-copying-a-file-and-a-whole-tree.sh",
+  "files": [
+    "poem.txt",
+    "session-copying-a-file-and-a-whole-tree.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "Making a directory and an empty file",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-making-a-directory-and-an-empty-file.sh",
+  "files": [
+    "session-making-a-directory-and-an-empty-file.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,114 @@
+{
+  "lab": "m02l02-03",
+  "lesson": "m02l02",
+  "title": "What each quote lets through",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash quotes.sh",
+  "main": "quotes.sh",
+  "files": [
+    "quotes.sh"
+  ],
+  "shared": [
+    {
+      "path": "access.log",
+      "from": "shared/fixtures/access.log"
+    },
+    {
+      "path": "config.env",
+      "from": "shared/fixtures/config.env"
+    },
+    {
+      "path": "data/alpha.log",
+      "from": "shared/fixtures/data/alpha.log"
+    },
+    {
+      "path": "data/beta.log",
+      "from": "shared/fixtures/data/beta.log"
+    },
+    {
+      "path": "data/gamma.log",
+      "from": "shared/fixtures/data/gamma.log"
+    },
+    {
+      "path": "data/report-2024.csv",
+      "from": "shared/fixtures/data/report-2024.csv"
+    },
+    {
+      "path": "data/report-2025.csv",
+      "from": "shared/fixtures/data/report-2025.csv"
+    },
+    {
+      "path": "empty.txt",
+      "from": "shared/fixtures/empty.txt"
+    },
+    {
+      "path": "lib/strings.sh",
+      "from": "shared/fixtures/lib/strings.sh"
+    },
+    {
+      "path": "mixed.txt",
+      "from": "shared/fixtures/mixed.txt"
+    },
+    {
+      "path": "names.txt",
+      "from": "shared/fixtures/names.txt"
+    },
+    {
+      "path": "notes/archive/old.md",
+      "from": "shared/fixtures/notes/archive/old.md"
+    },
+    {
+      "path": "notes/ideas.md",
+      "from": "shared/fixtures/notes/ideas.md"
+    },
+    {
+      "path": "notes/todo.md",
+      "from": "shared/fixtures/notes/todo.md"
+    },
+    {
+      "path": "numbers.txt",
+      "from": "shared/fixtures/numbers.txt"
+    },
+    {
+      "path": "poem.txt",
+      "from": "shared/fixtures/poem.txt"
+    },
+    {
+      "path": "project/README.md",
+      "from": "shared/fixtures/project/README.md"
+    },
+    {
+      "path": "project/src/build.sh",
+      "from": "shared/fixtures/project/src/build.sh"
+    },
+    {
+      "path": "project/src/deploy.sh",
+      "from": "shared/fixtures/project/src/deploy.sh"
+    },
+    {
+      "path": "project/tests/smoke.sh",
+      "from": "shared/fixtures/project/tests/smoke.sh"
+    },
+    {
+      "path": "sales.csv",
+      "from": "shared/fixtures/sales.csv"
+    },
+    {
+      "path": "servers.tsv",
+      "from": "shared/fixtures/servers.tsv"
+    },
+    {
+      "path": "two words.txt",
+      "from": "shared/fixtures/two words.txt"
+    }
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "bash",
+  "requires": [
+    "bash"
+  ],
+  "mergeStderr": true,
+  "note": null
+}

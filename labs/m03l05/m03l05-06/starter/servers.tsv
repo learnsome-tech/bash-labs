@@ -1,0 +1,5 @@
+host	role	port
+web01	web	443
+web02	web	443
+db01	database	5432
+cache01	cache	6379

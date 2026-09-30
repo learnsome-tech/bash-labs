@@ -1,0 +1,17 @@
+{
+  "lab": "m07l04-02",
+  "lesson": "m07l04",
+  "title": "A script that promises sh and writes bash",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "bashisms.sh",
+  "files": [
+    "bashisms.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

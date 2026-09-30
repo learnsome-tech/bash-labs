@@ -1,0 +1,17 @@
+{
+  "lab": "m05l04-08",
+  "lesson": "m05l04",
+  "title": "Break and continue",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "control.sh",
+  "files": [
+    "control.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

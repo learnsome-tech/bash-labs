@@ -1,0 +1,17 @@
+{
+  "lab": "m08l01-02",
+  "lesson": "m08l01",
+  "title": "Starting a job in the background",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-starting-a-job-in-the-background.sh",
+  "files": [
+    "session-starting-a-job-in-the-background.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

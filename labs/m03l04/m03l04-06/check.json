@@ -1,0 +1,19 @@
+{
+  "lab": "m03l04-06",
+  "lesson": "m03l04",
+  "title": "Anchors and character classes",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-anchors-and-character-classes.sh",
+  "files": [
+    "mixed.txt",
+    "poem.txt",
+    "session-anchors-and-character-classes.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

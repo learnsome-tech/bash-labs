@@ -1,0 +1,18 @@
+{
+  "lab": "m07l01-02",
+  "lesson": "m07l01",
+  "title": "A script with a piece missing",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "broken.sh",
+  "files": [
+    "broken.sh",
+    "poem.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

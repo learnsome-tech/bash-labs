@@ -1,0 +1,17 @@
+{
+  "lab": "m03l03-07",
+  "lesson": "m03l03",
+  "title": "Writing to a file you do not own",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "sudo-tee.sh",
+  "files": [
+    "sudo-tee.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

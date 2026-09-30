@@ -1,0 +1,17 @@
+{
+  "lab": "m01l04-06",
+  "lesson": "m01l04",
+  "title": "Renaming and moving are the same command",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-renaming-and-moving-are-the-same-command.sh",
+  "files": [
+    "session-renaming-and-moving-are-the-same-command.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

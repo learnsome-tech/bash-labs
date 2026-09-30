@@ -1,0 +1,18 @@
+{
+  "lab": "m06l04-03",
+  "lesson": "m06l04",
+  "title": "set -u catches the variable name you mistyped",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "typo.sh",
+  "files": [
+    "run.sh",
+    "typo.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m01l02-03",
+  "lesson": "m01l02",
+  "title": "Three questions that look identical and are not",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "three-questions-that-look-identical-and-are-.sh",
+  "files": [
+    "three-questions-that-look-identical-and-are-.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

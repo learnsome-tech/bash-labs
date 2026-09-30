@@ -1,0 +1,17 @@
+{
+  "lab": "m06l01-12",
+  "lesson": "m06l01",
+  "title": "declare with the readonly and array options",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-declare-with-the-readonly-and-array-options.sh",
+  "files": [
+    "session-declare-with-the-readonly-and-array-options.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

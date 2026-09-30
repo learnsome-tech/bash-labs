@@ -1,0 +1,17 @@
+{
+  "lab": "m08l02-01",
+  "lesson": "m08l02",
+  "title": "Owner, group, others",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "owner-group-others.txt",
+  "files": [
+    "owner-group-others.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

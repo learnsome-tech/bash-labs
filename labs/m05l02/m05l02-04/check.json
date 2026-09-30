@@ -1,0 +1,17 @@
+{
+  "lab": "m05l02-04",
+  "lesson": "m05l02",
+  "title": "Setting your own exit code",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "fail.sh",
+  "files": [
+    "fail.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

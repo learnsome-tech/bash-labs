@@ -1,0 +1,17 @@
+{
+  "lab": "m01l03-08",
+  "lesson": "m01l03",
+  "title": "Four options, four answers",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-four-options-four-answers.sh",
+  "files": [
+    "session-four-options-four-answers.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

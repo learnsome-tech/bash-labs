@@ -1,0 +1,17 @@
+{
+  "lab": "m08l05-05",
+  "lesson": "m08l05",
+  "title": "Installing the schedule from a file",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "install.sh",
+  "files": [
+    "install.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

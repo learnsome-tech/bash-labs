@@ -1,0 +1,18 @@
+{
+  "lab": "m03l03-06",
+  "lesson": "m03l03",
+  "title": "Several files, appending, and a quiet tee",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-several-files-appending-and-a-quiet-tee.sh",
+  "files": [
+    "names.txt",
+    "session-several-files-appending-and-a-quiet-tee.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

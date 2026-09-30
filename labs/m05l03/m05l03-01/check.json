@@ -1,0 +1,18 @@
+{
+  "lab": "m05l03-01",
+  "lesson": "m05l03",
+  "title": "The if statement",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-if-statement.sh",
+  "files": [
+    "poem.txt",
+    "the-if-statement.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}
